@@ -17,3 +17,10 @@ ul, li{
     border: 3px solid black;
 }
 
+#copyright{text-align: center;
+font-size: xx-large;
+color: black;
+border: 2px solid;
+width: 50px;
+margin-left: 40%; margin-right: 40%;
+}
